@@ -1,0 +1,32 @@
+_repo: Venus-To-the-Venus-of-Melos_59680
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dudley, Dorothy
+    gutenberg_agent_id: '50564'
+    url: http://www.gutenberg.org/2009/agents/50564
+creator:
+  author:
+    agent_name: Rodin, Auguste
+    aliases:
+    - Rodin, François Auguste
+    - Rodin, Francois Auguste
+    birthdate: 1840
+    deathdate: 1917
+    gutenberg_agent_id: '45965'
+    url: http://www.gutenberg.org/2009/agents/45965
+description: ''
+gutenberg_issued: '2019-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Venus
+
+  To the Venus of Melos'
+url: http://www.gutenberg.org/ebooks/59680
